@@ -1,0 +1,22 @@
+{
+  "bob": {
+    "username": "bob",
+    "password": "5E884898DA28047151D0E56F8DC6292773603D0D6AABBDD62A11EF721D1542D8",
+    "role": "User"
+  },
+  "admin": {
+    "username": "admin",
+    "password": "5E884898DA28047151D0E56F8DC6292773603D0D6AABBDD62A11EF721D1542D8",
+    "role": "Admin"
+  },
+  "pranav2": {
+    "username": "pranav2",
+    "password": "2316FCEB6E52D1ECEC6ACDFECF3FDB7A54AA963671EF9496737C69D364687815",
+    "role": "Admin"
+  },
+  "pranav": {
+    "username": "pranav",
+    "password": "5E884898DA28047151D0E56F8DC6292773603D0D6AABBDD62A11EF721D1542D8",
+    "role": "Admin"
+  }
+}
